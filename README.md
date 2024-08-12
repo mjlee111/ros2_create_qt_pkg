@@ -10,6 +10,7 @@ To use the script, clone the repository from GitHub and run the setup script to 
 $ git clone https://github.com/mjlee111/ros2_create_qt_pkg.git
 $ cd ros2_create_qt_pkg
 $ ./setup.sh
+$ source ~/.bashrc
 ```
 
 ## Usage
