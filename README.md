@@ -1,6 +1,9 @@
 # `ros2_create_qt_pkg` Script
 
-### Overview
+## ⚠️ Warning
+This repository is on **archived** status. Please use [ros2_package_create_py](https://github.com/mjlee111/ros2_package_create_py.git) instead.
+
+## Overview
 The `ros2_create_qt_pkg` script helps in creating a ROS (Robot Operating System) package based on QT5 for GUI development. It automates the initial setup of the package and adds necessary dependencies, allowing developers to start working quickly.
 
 ## Installation
